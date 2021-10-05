@@ -1,0 +1,3 @@
+getuid
+upload android.sh
+#execute -f "sh android.sh" -i
